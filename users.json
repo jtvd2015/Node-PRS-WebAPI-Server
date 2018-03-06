@@ -1,1 +1,78 @@
-[{"Id":1,"UserName":"sa","Password":"sa","FirstName":"Super","LastName":"Admin","Phone":"513-555-1212","Email":"sa@admin.com","IsReviewer":true,"IsAdmin":true},{"Id":2,"UserName":"reviewer","Password":"reviewer","FirstName":"Elevated","LastName":"Reviewer","Phone":"614-555-1212","Email":"elvated@reviewer.com","IsReviewer":true,"IsAdmin":false},{"Id":3,"UserName":"user","Password":"user","FirstName":"Normal","LastName":"User","Phone":"859-555-1212","Email":"normal@user.com","IsReviewer":false,"IsAdmin":false},{"Id":4,"UserName":"aaa","Password":"aaa","FirstName":"aaa","LastName":"aaa","Phone":"513-555-1212","Email":"aaa@admin.com","IsReviewer":true,"IsAdmin":true}]
+[
+{
+    "Id": 1,
+    "UserName": "sa",
+    "Password": "sa",
+    "FirstName": "Super",
+    "LastName": "Admin",
+    "Phone": "513-555-1212",
+    "Email": "sa@admin.com",
+    "IsReviewer": true,
+    "IsAdmin": true
+},
+{
+    "Id": 2,
+    "UserName": "reviewer",
+    "Password": "reviewer",
+    "FirstName": "Elevated",
+    "LastName": "Reviewer",
+    "Phone": "614-555-1212",
+    "Email": "elvated@reviewer.com",
+    "IsReviewer": true,
+    "IsAdmin": false
+},
+{
+    "Id": 3,
+    "UserName": "user",
+    "Password": "user",
+    "FirstName": "Normal",
+    "LastName": "User",
+    "Phone": "859-555-1212",
+    "Email": "normal@user.com",
+    "IsReviewer": false,
+    "IsAdmin": false
+},
+{
+    "Id": 4,
+    "UserName": "aaa",
+    "Password": "aaa",
+    "FirstName": "aaa",
+    "LastName": "aaa",
+    "Phone": "513-555-1212",
+    "Email": "aaa@admin.com",
+    "IsReviewer": true,
+    "IsAdmin": true
+},
+{
+    "Id": 5,
+    "FirstName": "Jennife",
+    "LastName": "Wesselman",
+    "UserName": "jtvd2015",
+    "Password": "#$MaXtRaIn/18?",
+    "Phone": "859-445-2701",
+    "Email": "wesselman.j@gmail.com",
+    "IsReviewer": "false",
+    "IsAdmin": "false"
+},
+{
+    "Id": 6,
+    "FirstName": "Tula",
+    "LastName": "Greece",
+    "UserName": "tgMax1",
+    "Password": "$%tGmAx1/18",
+    "Phone": "859-555-1212",
+    "Email": "tg@yahoo.com",
+    "IsReviewer": "false",
+    "IsAdmin": "false"
+},
+{
+    "Id": 7,
+    "FirstName": "Carole",
+    "LastName": "Wesselman",
+    "UserName": "cwess1",
+    "Password": "cw#$$/18",
+    "Phone": "859-430-6812",
+    "Email": "carolewesselman@gmail.com",
+    "IsReviewer": "true",
+    "IsAdmin": "true"
+}]
